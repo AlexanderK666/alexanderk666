@@ -4,7 +4,7 @@
 - Discord - AlexanderK#6666
 
 #### 🖥 My plugins ([Qurre](https://github.com/Qurre-Team/Qurre-sl))
-They will appear soon
+- [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162-Qurre)
 
 #### 🖥 My plugins ([Exiled](https://github.com/Exiled-Team/EXILED))
 - [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162)
