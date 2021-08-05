@@ -7,7 +7,7 @@
 They will appear soon
 
 #### 🖥 My plugins ([Exiled](https://github.com/Exiled-Team/EXILED))
-They will appear soon
+- [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162)
 
 #### 👋 Profile visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexanderk666.alexanderk666)
