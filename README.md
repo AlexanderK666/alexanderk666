@@ -1,7 +1,10 @@
 ## Hi there, I'm Alexander <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 #### 💬 Contact
-- Discord - AlexanderK#6666
+- **Discord** - AlexanderK#6666
+
+#### 💰 Donate
+the coming soon
 
 #### 🖥 My plugins ([Qurre](https://github.com/Qurre-Team/Qurre-sl))
 - [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162-Qurre)
