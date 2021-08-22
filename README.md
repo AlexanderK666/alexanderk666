@@ -7,7 +7,7 @@
 the coming soon
 
 #### 🖥 My plugins ([Qurre](https://github.com/Qurre-Team/Qurre-sl))
-- [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162-Qurre)
+the coming soon
 
 #### 🖥 My plugins ([Exiled](https://github.com/Exiled-Team/EXILED))
 - [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162)
