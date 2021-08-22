@@ -10,7 +10,7 @@ the coming soon
 the coming soon
 
 #### 🖥 My plugins ([Exiled](https://github.com/Exiled-Team/EXILED))
-- [**SCP-1162**](https://github.com/AlexanderK666/SCP-1162)
+the coming soon
 
 #### 👋 Profile visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=alexanderk666.alexanderk666)
