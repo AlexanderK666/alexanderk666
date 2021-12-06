@@ -5,17 +5,17 @@ the coming soon
 
 ## 🖥 Languages and Tools
 
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+[![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)](https://visualstudio.microsoft.com)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://visualstudio.microsoft.com)
 
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
+[![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com)
 
-![.NET](https://img.shields.io/badge/-.FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+[![.NET](https://img.shields.io/badge/-.FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com)
+[![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 
-![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)
+[![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 
-![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=00979D)
+[![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=00979D)](https://www.arduino.cc)
 
 ## ❤ Links
 
