@@ -1,5 +1,6 @@
 ## Hi there, I'm Alexander <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+<a href="https://github.com/Qurre-Team/Qurre-sl"><img align="right" alt="Qurre" width="52px" src="https://camo.githubusercontent.com/23bf7b23930bad0a8bad702d3de126f0037ab173a5a9df42a18143af824cd191/68747470733a2f2f63646e2e6679646e652e78797a2f71757272652f51757272652d7765625f6f6c2e676966"/></a></img>
 #### 🖥 My plugins ([Qurre](https://github.com/Qurre-Team/Qurre-sl))
 the coming soon
 
