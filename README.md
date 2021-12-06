@@ -8,7 +8,7 @@ the coming soon
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-090909?style=for-the-badge&logo=visualstudio&logoColor=5C2D91)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
-![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=000000)
+![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 
 ![.NET](https://img.shields.io/badge/-.FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)
 ![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)
@@ -23,6 +23,6 @@ the coming soon
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=1B2838)](https://steamcommunity.com/id/AlexanderKK)
 
 ### You can support my creativity! ❤
-_Скоро_
+_Soon_
 
 [![AlexanderK Stats](https://github-readme-stats.vercel.app/api?username=alexanderk666&hide=contribs,prs&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
