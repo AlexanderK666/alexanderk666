@@ -11,7 +11,7 @@ the coming soon
 
 [![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com)
 
-[![.NET](https://img.shields.io/badge/-.FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com)
+[![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com)
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 [![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML5)
