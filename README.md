@@ -16,6 +16,7 @@ the coming soon
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
 
 [![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML5)
+[![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)](https://ru.wikipedia.org/wiki/CSS)
 
 [![Arduino](https://img.shields.io/badge/-Arduino-090909?style=for-the-badge&logo=arduino&logoColor=00979D)](https://www.arduino.cc)
 
