@@ -10,7 +10,7 @@ the coming soon
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-090909?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)](https://visualstudio.microsoft.com)
 
 [![Unity](https://img.shields.io/badge/-Unity-090909?style=for-the-badge&logo=unity&logoColor=FFFFFF)](https://unity.com)
-[![Ren'Py](https://img.shields.io/badge/-Ren'Py-090909?style=for-the-badge&logo=Ren%27Py&logoColor=FF7F7F))](https://www.renpy.org)
+[![Ren'Py](https://img.shields.io/badge/-Ren'Py-090909?style=for-the-badge&logo=Ren%27Py&logoColor=FF7F7F)](https://www.renpy.org)
 
 [![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com)
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
