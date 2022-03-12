@@ -23,6 +23,7 @@ the coming soon
 ## ❤ Links
 
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCw7locP80HHmSBKhC2AGXgQ)
+[![Twich](https://img.shields.io/badge/-Twich-090909?style=for-the-badge&logo=twitch&logoColor=9146FF)](https://www.twitch.tv/alexanderk_twich)
 [![Steam](https://img.shields.io/badge/-Steam-090909?style=for-the-badge&logo=steam&logoColor=1B2838)](https://steamcommunity.com/id/_AlexanderK_)
 
 ### You can support my creativity! ❤
