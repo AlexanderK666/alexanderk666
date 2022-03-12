@@ -14,6 +14,7 @@ the coming soon
 
 [![.NET](https://img.shields.io/badge/-FRAMEWORK-090909?style=for-the-badge&logo=.net&logoColor=512BD4)](https://dotnet.microsoft.com)
 [![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=cplusplus&logoColor=00599C)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=3776AB)](https://www.python.org)
 
 [![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html5&logoColor=E34F26)](https://en.wikipedia.org/wiki/HTML5)
 [![CSS](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=css3&logoColor=1572B6)](https://ru.wikipedia.org/wiki/CSS)
